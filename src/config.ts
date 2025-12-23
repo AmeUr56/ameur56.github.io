@@ -11,13 +11,17 @@ export const siteConfig = {
   },
   aboutMe:
     "AI Engineer and Backend Developer based in Algeria with expertise in machine learning, deep learning, and AI model deployment. Skilled in building AI solutions for computer vision, NLP, and time series analysis, and experienced in creating scalable backend systems using Flask and FastAPI. Passionate about automation, AI-driven solutions, and delivering high-quality software systems for startups and enterprises.",
-  skills: [
-    "Python", "Flask", "FastAPI", "TensorFlow", "Keras", 
-    "SQL", "MySQL", "SQLite", "NeonDB", "Supabase",
-    "Scrapy", "Seaborn", "Matplotlib", "Docker", 
-    "LangChain", "HuggingFace", "n8n", "Temporal", "Prefect",
-    "API Development", "CLI & Shell Tooling"
-  ],
+  skills: {
+    programmingAndData: ["Python", "Java", "C", "Matlab", "Regex"],
+    aiAndML: ["Machine Learning", "Deep Learning", "Computer Vision (CV)", "Natural Language Processing (NLP)", "Time Series Forecasting"],
+    generativeAI: ["LangChain", "HuggingFace"],
+    automationOrchestration: ["Temporal", "Prefect", "n8n"],
+    frameworksTools: ["TensorFlow", "Keras", "FastAPI", "Flask", "Rasa", "Locust", "Docker", "Nginx"],
+    dataHandlingVisualization: ["SQL", "MySQL", "SQLite", "NeonDB", "Supabase", "Pandas", "Matplotlib", "Seaborn", "Web Scraping"],
+    softwareEngineering: ["API Development", "CLI & Shell Tooling (Click, CMD, Rich)", "Git & GitHub", "Project Management"],
+    design: ["Canva"],
+    devPractices: ["Prompt Engineering", "Problem Solving", "Collaboration & Leadership", "Technical Communication", "Research"]
+  },
   projects: [
     {
       name: "Smart Offer Finder — AI Front Office Assistant",
