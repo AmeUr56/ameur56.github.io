@@ -32,15 +32,15 @@ export const siteConfig = {
         "Developed a real-time camera monitoring system to detect loitering, crowd formation, aggressive motion, and watchlist faces using object detection, pose estimation, and face embeddings.",
       link: "",
       skills: ["Python", "OpenCV", "YOLOv8", "MediaPipe", "Flask"],
-    },
-    /*{
+    }
+    /*,{
       name: "Enterprise Showroom Management System",
       description:
         "Designed and built a production-grade showroom management system covering users, inventory, sales, accounting, and notifications with strong data integrity and scalability.",
       link: "",
       skills: ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "Docker", "Redis"],
-    }*/
-    ,
+    },*/
+    
   ],
   experience: [
     /*{
@@ -52,7 +52,7 @@ export const siteConfig = {
         "Design and deploy scalable backend systems with FastAPI & Flask",
         "Lead end-to-end projects including requirements, implementation, and deployment",
       ],
-    }*/,
+    },*/
     {
       company: "Satield",
       title: "Founder & CEO | AI & Backend Engineer",
