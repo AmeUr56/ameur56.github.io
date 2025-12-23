@@ -13,7 +13,7 @@ export const siteConfig = {
     "AI Engineer and Backend Developer based in Algeria with expertise in machine learning, deep learning, and AI model deployment. Skilled in building AI solutions for computer vision, NLP, and time series analysis, and experienced in creating scalable backend systems using Flask and FastAPI. Passionate about automation, AI-driven solutions, and delivering high-quality software systems for startups and enterprises.",
   skills: [
     // Programming & Core
-    "Python", "Java", "C", "SQL", "Matlab"
+    "Python", "Java", "C", "SQL", "Matlab",
     // AI & ML Tools
     "Scikit-learn", "TensorFlow", "Keras", "LangChain", "HuggingFace",
     // Backend & Web Frameworks
