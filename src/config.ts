@@ -66,8 +66,8 @@ export const siteConfig = {
       dateRange: "Nov 2025 - Present",
       bullets: [
         "Built AI pipelines for satellite imagery-based precision agriculture",
-        "Developed web dashboards and backend services for farm monitoring",
-        "Defined ethical AI practices and ensured product compliance",
+        "Developed backend services for farm monitoring",
+        "Focused on affordable, localized precision agriculture for Algerian farmers and cooperatives",
       ],
     },
     {
@@ -75,19 +75,31 @@ export const siteConfig = {
       title: "Co-Founder & CTO",
       dateRange: "Apr 2025 - June 2025",
       bullets: [
-        "Built autonomous AI systems and workflow agents using LangChain",
-        "Led engineering team, mentored, and enforced technical standards",
-        "Delivered full-stack platforms including AutoCert for certificate automation",
+        "Architected end-to-end AI platform and autonomous agent workflows beyond LangChain",
+        "Mentored engineering team, fostering innovation and technical excellence",
+        "Defined ethical AI practices and enforced security/compliance standards",
+        "Led product-market fit strategy with user-driven iteration",
+      ],
+    },
+    {
+      company: "Drufiy",
+      title: "AI & Backend Developer",
+      dateRange: "Feb 2025 - June 2025",
+      bullets: [
+        "Developed backend infrastructure for waitlist website and user workflows",
+        "Built cross-platform SystemRepairAgent using LangChain and custom LLM for automated Windows troubleshooting",
+        "Built intelligent Rasa agent to resolve system issues via natural language commands",
+        "Created large-scale error dataset and fine-tuned custom LLM for AI troubleshooting",
       ],
     },
     {
       company: "Venexus Global Capital",
-      title: "Data Scientist | Quantitative Analyst",
+      title: "Data Scientist",
       dateRange: "Jan 2025 - June 2025",
       bullets: [
-        "Developed ML models for financial forecasting and strategy optimization",
-        "Built intelligent agents for automated system troubleshooting",
-        "Processed large datasets and extracted actionable insights",
+        "Built ML cross-correlation models to uncover patterns in financial time series",
+        "Applied SAR-based forecasting with satellite imagery for commodities and macro predictions",
+        "Researched entropy-based financial models with custom Python implementations",
       ],
     },
     {
@@ -96,7 +108,8 @@ export const siteConfig = {
       dateRange: "Feb 2025 - May 2025",
       bullets: [
         "Developed attendance and absence management systems with secure backend APIs",
-        "Optimized MySQL databases and automated reporting pipelines",
+        "Took a leadership role within the intern group, organizing team meetings, guiding peers.",
+        "Automated reporting pipelines.",
       ],
     },
     {
