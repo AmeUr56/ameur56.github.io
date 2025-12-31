@@ -40,19 +40,19 @@ export const siteConfig = {
       link: "",
       skills: ["Python", "OpenCV", "YOLOv8", "MediaPipe", "Flask"],
     }
-    /*,{
+    ,{
       name: "Enterprise Showroom Management System",
       description:
         "Designed and built a production-grade showroom management system covering users, inventory, sales, accounting, and notifications with strong data integrity and scalability.",
       link: "",
       skills: ["Python", "FastAPI", "PostgreSQL", "SQLAlchemy", "Docker", "Redis"],
-    },*/
+    },
     
   ],
   experience: [
     {
       company: "Novaq",
-      title: "Founder & Lead AI & Backend Consultant",
+      title: "Co-Founder & Lead AI & Backend Consultant",
       dateRange: "Sep 2025 - Present",
       bullets: [
         "Provide AI & ML consulting for CV, NLP, and time series solutions",
@@ -62,7 +62,7 @@ export const siteConfig = {
     },
     {
       company: "Satield",
-      title: "Founder & CEO | AI & Backend Engineer",
+      title: "Co-Founder & CEO | AI & Backend Engineer",
       dateRange: "Nov 2025 - Present",
       bullets: [
         "Built AI pipelines for satellite imagery-based precision agriculture",
