@@ -50,7 +50,7 @@ export const siteConfig = {
     
   ],
   experience: [
-    /*{
+    {
       company: "Novaq",
       title: "Founder & Lead AI & Backend Consultant",
       dateRange: "Sep 2025 - Present",
@@ -59,7 +59,7 @@ export const siteConfig = {
         "Design and deploy scalable backend systems with FastAPI & Flask",
         "Lead end-to-end projects including requirements, implementation, and deployment",
       ],
-    },*/
+    },
     {
       company: "Satield",
       title: "Founder & CEO | AI & Backend Engineer",
