@@ -131,6 +131,6 @@ export const siteConfig = {
         "I am gaining a deep understanding of key concepts in software development, computer systems, databases, and networking.",
         "This program equips me with both theoretical knowledge and practical skills, preparing me for roles in software engineering, system administration, and IT project management.",
       ],
-    }m
+    },
   ],
 };
