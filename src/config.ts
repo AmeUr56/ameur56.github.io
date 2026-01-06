@@ -124,9 +124,9 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Self-Learning & Online Courses",
-      degree: "AI, Backend, and Full Stack Development",
-      dateRange: "2020 - Present",
+      school: "Tahri Mohamed Bechar University",
+      degree: "Computer Science State Engineer",
+      dateRange: "2023 - Present",
       achievements: [
         "I am gaining a deep understanding of key concepts in software development, computer systems, databases, and networking.",
         "This program equips me with both theoretical knowledge and practical skills, preparing me for roles in software engineering, system administration, and IT project management.",
