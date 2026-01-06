@@ -128,19 +128,9 @@ export const siteConfig = {
       degree: "AI, Backend, and Full Stack Development",
       dateRange: "2020 - Present",
       achievements: [
-        "Completed extensive AI, ML, and backend development projects",
-        "Specialized in FastAPI, Flask, TensorFlow, Keras, SQL, and Python",
-        "Built multiple production-ready AI systems and web platforms",
+        "I am gaining a deep understanding of key concepts in software development, computer systems, databases, and networking.",
+        "This program equips me with both theoretical knowledge and practical skills, preparing me for roles in software engineering, system administration, and IT project management.",
       ],
-    },
-    {
-      school: "University-based Clubs & Hackathons",
-      degree: "Practical AI and Software Engineering Experience",
-      dateRange: "2024 - 2025",
-      achievements: [
-        "Participated in Hackathon Forsa 2025 and other national events",
-        "Built AI-powered assistants, real-time analytics systems, and automation platforms",
-      ],
-    },
+    }m
   ],
 };
